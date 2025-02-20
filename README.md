@@ -7,9 +7,9 @@ Si quieres hacerlo con Visual Studio Code, pero no te funciona, ya sea descargan
 ## Cryptography
 Para poder visualizar este programa de forma correcta necesitamos hacer lo siguiente.
 Lo primero que haremos, será, dentro de la carpeta proyecto_cryptography, abrir un terminal, en el cuál pondremos lo siguiente:
-- pip install streamlit
-- pip install cryptography
-- streamlit run app.py
+`pip install streamlit`
+`pip install cryptography`
+`streamlit run app.py`
 
 Con éste último comando, crearemos una url local, por el puerto 8501, en la cuál tendremos una interfaz gráfica, tendremos que insertar un fichero txt que contenga texto plano, como es el caso del que pongo de ejemplo llamado texto_plano.txt.
 
@@ -17,9 +17,9 @@ Con éste último comando, crearemos una url local, por el puerto 8501, en la cu
 ## Pycryptodome
 Para poder visualizar este programa de forma correcta necesitamos hacer lo siguiente.
 Lo primero que haremos, será, dentro de la carpeta proyecto_cryptodome, abrir un terminal, en el cuál pondremos lo siguiente:
-- pip install streamlit
-- pip install pycryptodome
-- streamlit run app.py
+`pip install streamlit`
+`pip install pycryptodome`
+`streamlit run app.py`
 
 Con éste último comando, crearemos una url local, por el puerto 8501, en la cuál tendremos una interfaz gráfica, tendremos que insertar un fichero txt que contenga texto plano, como es el caso del que pongo de ejemplo llamado texto_plano.txt.
 
