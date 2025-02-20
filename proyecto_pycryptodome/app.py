@@ -7,7 +7,7 @@ from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 
 # Definimos el título de la página
-st.title("Cifrado PyCry - Codificación y Decodificación")
+st.title("Cifrado PyCryptography - Codificación y Decodificación")
 
 # Si no existe texto_cifrado, crea la variable, pero sin información en su interior
 if "texto_cifrado" not in st.session_state:
