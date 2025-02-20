@@ -1,6 +1,7 @@
 # Proyecto-Criptografía
 Aquí expongo dos programas de criptografía, usando los algoritmos de Cryptography y  Cryptodome.
 Los requerimientos de ambos casos, son prácticamente iguales, sólo que la librería del cifrado cambia, ya que usamos otro algoritmo, pero el resto de pasos son iguales y la explicación la misma.
+Si quieres hacerlo con Visual Studio Code, pero no te funciona, ya sea descargando las librerías o cuando ejecutas el comando para que arranque el app.py, entonces tendrás que revirsar el intérprete que tienes, si te da ese error puedes crear un nuevo intérprete, que éste te creará una nueva carpeta llamada .venv, en la cuál se descargarán las las librerías.
 
 
 ## Cryptography
