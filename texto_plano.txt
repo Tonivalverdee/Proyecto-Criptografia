@@ -1,0 +1,2 @@
+Texto a cifrar.
+Esto es un texto para cifrar, se puede usar para ambos algoritmos de cifrado en ambos programas.
